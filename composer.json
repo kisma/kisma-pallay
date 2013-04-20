@@ -14,11 +14,12 @@
 		}
 	],
 	"require":     {
-		"php":             ">=5.3.10"
+		"php":         ">=5.3.13",
+		"kisma/kisma": "dev-master"
 	},
 	"autoload":    {
 		"psr-0": {
-			"Kisma": "src/"
+			"Kisma\\Core\\Pods": "src/"
 		},
 		"files": ["src/autoload.php"]
 	}
