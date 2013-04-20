@@ -1,4 +1,4 @@
-![Kisma](https://github.com/kisma/kisma/raw/master/assets/logo-kisma.png)
+![Kisma](https://github.com/lucifurious/kisma/raw/master/assets/logo-kisma.png)
 
 # Kisma Pallay: Statistics Gathering Thingamajig
 
